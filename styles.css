@@ -1,0 +1,22 @@
+.container{
+    background-color: blue;
+    overflow:hidden;
+}
+#header {
+    background-color: red;
+}
+
+#leftside {
+    background-color: yellow;
+    float: left;
+    width: 20%;
+}
+
+#body {
+    background-color: aliceblue;
+}
+
+#footer{
+    background-color: green;
+    clear: both;
+}
